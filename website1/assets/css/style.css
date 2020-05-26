@@ -1,3 +1,7 @@
-body{
-    background: #BDBDBD;
+body {background-color: white;}
+
+.round-image{
+    border-radius: 50%;
+    widows:20%;
+    height:30%;
 }
