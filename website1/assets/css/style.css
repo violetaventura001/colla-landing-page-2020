@@ -3,13 +3,16 @@ body{
 }
 
 
-
+/* CONTACT FORM STYLES */
 .container{
     background: white;
      width: 500px;
      margin: auto;
      padding: 10px;
-     
+     }
+
+.Contact-sub-header{
+    text-size-adjust: 11px
 }
 
 .contact_grey_box{
@@ -17,24 +20,11 @@ body{
     background-color: #e9e9e9;
 }
 
-.flex-container {
-  display: flex;
-  flex-direction: column;
-}
-
-.form-control1{
-    width:80%;
-    flex-direction: center;
-}
-
-.form-control1{
-  float: right;
-}
-
-.form-control2{
-  float: right;
+.formGroupExampleInput{
+    text-align: right
 }
 
 .btn-primary{
     float:right
 }
+
